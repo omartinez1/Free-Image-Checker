@@ -1,2 +1,2 @@
 # SoftwareEngineeringProject
-Group Project for Software Engineering Team 
+Group Project for Software Engineering Team UM9
